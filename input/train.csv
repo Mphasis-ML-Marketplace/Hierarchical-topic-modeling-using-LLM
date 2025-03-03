@@ -1,0 +1,112 @@
+﻿DESCRIPTION,CATEGORY_2,CATEGORY_1
+"""Dear Team, the cheque book we requested is still not visible under the 'Cheque Book Request' option. Kindly investigate and provide an update.""",CC & OD A/c Query,Service Request
+"""I have requested a cheque book twice, but it is still not visible. Kindly check and assist.""",CC & OD A/c Query,Service Request
+"""The cheque book request option is still not showing up in the portal. Kindly look into this issue.""",CC & OD A/c Query,Service Request
+"""Dear Team, after the recent system update, the joint holder names on the passbook are incorrectly displayed. Please assist in correcting this issue as soon as possible.""",Passbook Queries,Service Request
+"""The passbook has incorrect details for the joint holders. Kindly help rectify the names as soon as possible.""",Passbook Queries,Service Request
+"""I am seeing wrong names for joint holders in the passbook after the recent update. Kindly assist with the correction.""",Passbook Queries,Service Request
+"""I am unable to delete signatures from the system. Kindly guide me through the correct process for deleting signatures.""",Savings A/c Query,Query
+"""Dear Team, I’m unable to delete the saved signatures in the system. Kindly assist.""",Savings A/c Query,Query
+"""Please guide me on how to delete signatures as I am unable to remove them from the system.""",Savings A/c Query,Query
+"""Dear Team, I have submitted multiple requests for my credit card details but have not received any response yet. Kindly look into this matter.""",Credit Card Query,Service Request
+"""My credit card application has not been processed yet. Kindly provide an update on the status.""",Credit Card Query,Service Request
+"""Dear Team, I’m still waiting for my credit card details. Kindly check the status and provide an update.""",Credit Card Query,Service Request
+"""I am unable to change my address in the system. Kindly assist me in updating my details.""",Address Update Query,Service Request
+"""I’m trying to update my address details, but the system is not accepting the changes. Kindly assist me.""",Address Update Query,Service Request
+"""Dear Team, I am unable to update my address information. Kindly help me with this request.""",Address Update Query,Service Request
+"""My online banking app keeps freezing when I try to transfer funds. Kindly assist in resolving this issue.""",App Issues,Bug Report
+"""The mobile banking app is constantly crashing when I try to make a transaction. Please assist in fixing this.""",App Issues,Bug Report
+"""Dear Team, I am facing app crashes while trying to log in. Kindly help with this issue.""",App Issues,Bug Report
+"""Dear Team, the details for my fixed deposit are not showing correctly in the system. Kindly assist in correcting this issue.""",Fixed Deposit Query,Service Request
+"""The fixed deposit details are missing from my account information. Kindly assist in retrieving them.""",Fixed Deposit Query,Service Request
+"""I cannot view my fixed deposit information after the recent update. Kindly check and assist with this.""",Fixed Deposit Query,Service Request
+"""I’ve requested a new cheque book, but I still haven’t received it. Kindly look into this.""",Cheque Book Query,Service Request
+"""Dear Team, I still haven’t received my cheque book. Kindly assist in processing the request.""",Cheque Book Query,Service Request
+"""The cheque book request is pending. Kindly assist in processing it at your earliest convenience.""",Cheque Book Query,Service Request
+"""Dear Team, I’m unable to view the transaction history on my savings account. Kindly check and assist with the issue.""",Transaction Query,Service Request
+"""I cannot find my transaction history for the past month. Kindly assist in retrieving it.""",Transaction Query,Service Request
+"""The system is not showing my transaction details for the last week. Kindly check and resolve the issue.""",Transaction Query,Service Request
+"""The payment I attempted to make has failed. Kindly investigate the cause and help me resolve it.""",Payment Failure Query,Service Request
+"""I was unable to process a payment earlier. Kindly assist in identifying the issue and fixing it.""",Payment Failure Query,Service Request
+"""Dear Team, I am unable to complete a payment transaction. Please assist in resolving this.""",Payment Failure Query,Service Request
+"""Dear Team, the system isn’t showing the updated balance after my last deposit. Kindly investigate.""",Balance Update Query,Service Request
+"""I made a deposit yesterday, but my balance is still showing the old amount. Kindly help update it.""",Balance Update Query,Service Request
+"""The system has not updated my balance after the recent deposit. Kindly assist in reflecting the correct amount.""",Balance Update Query,Service Request
+"""I’m unable to access my account after the recent update. Kindly assist with recovering my login credentials.""",Login Issues,Service Request
+"""Dear Team, after the update, I’m unable to log in to my account. Please guide me on how to regain access.""",Login Issues,Service Request
+"""I’m unable to log in to my account after the recent update. Kindly assist with unlocking it.""",Login Issues,Service Request
+"""Dear Team, I’ve been facing issues while applying for a loan. The form is not loading properly. Kindly assist.""",Loan Application Query,Service Request
+"""I cannot access the loan application form on the portal. Kindly assist in resolving this issue.""",Loan Application Query,Service Request
+"""I’m unable to submit the loan application form. Kindly assist with this issue.""",Loan Application Query,Service Request
+"""I’m unable to reset my password through the app. Kindly guide me through the recovery process.""",Password Reset Query,Query
+"""Dear Team, I tried to reset my password, but the reset link hasn’t arrived. Kindly assist in sending the link again.""",Password Reset Query,Query
+"""I haven’t received a password reset link. Kindly assist me in recovering my account.""",Password Reset Query,Query
+"""Dear Team, I cannot access my email notifications from the online portal. Please assist in fixing this issue.""",Email Notifications,Service Request
+"""I am not receiving email notifications for my recent transactions. Kindly check and assist.""",Email Notifications,Service Request
+"""Dear Team, I am not getting email alerts for my account activities. Kindly help with this.""",Email Notifications,Service Request
+"""I’ve tried to update my phone number in the system but haven’t been successful. Kindly assist with the update process.""",Contact Info Query,Service Request
+"""I am unable to update my phone number in the system. Kindly assist in making the necessary changes.""",Contact Info Query,Service Request
+"""I’m having trouble updating my phone number on my account. Kindly assist in resolving this.""",Contact Info Query,Service Request
+"""Dear Team, I am unable to submit my expense report online. Kindly help me resolve the issue.""",Expense Report Issue,Service Request
+"""I cannot upload my expense report to the system. Kindly assist with resolving the issue.""",Expense Report Issue,Service Request
+"""I cannot access my expense report submission page. Kindly check and resolve the issue.""",Expense Report Issue,Service Request
+"""I’ve been charged an incorrect fee on my account. Kindly assist in resolving this issue and refunding the charge.""",Billing Query,Service Request
+"""I noticed an extra charge on my statement. Kindly help me resolve this billing issue.""",Billing Query,Service Request
+"""Dear Team, there is an incorrect fee on my account statement. Kindly investigate and adjust it.""",Billing Query,Service Request
+"""Dear Team, my online banking account is not displaying the correct details after the recent update. Please help resolve the issue.""",Account Details Query,Service Request
+"""I cannot see the correct details of my account after the update. Kindly assist in fixing this issue.""",Account Details Query,Service Request
+"""My account details are not reflecting correctly in the online banking system. Kindly help fix this.""",Account Details Query,Service Request
+"""I cannot access the loan application form online. Kindly guide me in accessing the form.""",Loan Form Access Query,Service Request
+"""Dear Team, I am unable to open the loan application page on the website. Kindly assist.""",Loan Form Access Query,Service Request
+"""I am having trouble accessing the loan form online. Kindly provide a solution to resolve this.""",Loan Form Access Query,Service Request
+"""Dear Team, the transaction history for my credit card is not displaying correctly. Kindly assist in retrieving the correct details.""",Credit Card Query,Service Request
+"""I’ve tried to access my credit card transaction history but it shows no data. Kindly assist in fixing this issue.""",Credit Card Query,Service Request
+"""My credit card transactions are not showing up in the system. Please investigate and provide a solution.""",Credit Card Query,Service Request
+"""I was unable to access my fixed deposit details online. Kindly assist in retrieving my FD information.""",Fixed Deposit Query,Service Request
+"""Dear Team, I am unable to access my fixed deposit details after the update. Kindly assist in resolving this.""",Fixed Deposit Query,Service Request
+"""The interest rate on my fixed deposit is not reflecting correctly in the system. Kindly assist in updating the correct rate.""",Fixed Deposit Query,Service Request
+"""I’ve been charged an incorrect fee for my savings account maintenance. Kindly help me with the refund process.""",Savings A/c Query,Service Request
+"""Dear Team, I’ve noticed an incorrect fee on my savings account. Kindly investigate and adjust the fee accordingly.""",Savings A/c Query,Service Request
+"""I was charged an unnecessary fee on my savings account. Kindly check and reverse the charge.""",Savings A/c Query,Service Request
+"""The transaction I tried to complete failed. Kindly investigate and let me know why this happened.""",Payment Failure Query,Service Request
+"""I am unable to make a payment due to an unknown error. Please assist in resolving this issue.""",Payment Failure Query,Service Request
+"""Dear Team, my attempt to process a payment was unsuccessful. Kindly investigate and help me resolve it.""",Payment Failure Query,Service Request
+"""The system is not displaying my account balance correctly after a deposit. Kindly assist in updating my balance.""",Balance Update Query,Service Request
+"""I made a deposit earlier, but my balance still reflects the old amount. Kindly assist in updating it.""",Balance Update Query,Service Request
+"""Dear Team, the updated balance after my recent deposit is not visible. Kindly help with this.""",Balance Update Query,Service Request
+"""I am unable to log in to my account after the latest update. Kindly assist with resetting my login credentials.""",Login Issues,Service Request
+"""Dear Team, I’m unable to access my online account after the update. Kindly help with unlocking it.""",Login Issues,Service Request
+"""The login page is not responding after the update. Kindly assist in resolving this issue.""",Login Issues,Service Request
+"""I am unable to delete old beneficiary details from my account. Kindly assist in removing these details.""",Beneficiary Update Issue,Service Request
+"""Dear Team, I cannot remove an old beneficiary from the system. Kindly assist me in deleting this beneficiary.""",Beneficiary Update Issue,Service Request
+"""I’m unable to delete an outdated beneficiary from my account. Kindly assist in resolving this issue.""",Beneficiary Update Issue,Service Request
+"""I’m unable to update my mobile number in the system. Kindly guide me on how to make the change.""",Contact Info Query,Service Request
+"""I cannot change my mobile number on the system. Kindly assist me in making the necessary updates.""",Contact Info Query,Service Request
+"""Dear Team, I am facing issues with updating my mobile number in the system. Kindly assist me in completing the update.""",Contact Info Query,Service Request
+"""I cannot submit my online loan application due to an error. Kindly assist in resolving this issue.""",Loan Application Query,Service Request
+"""Dear Team, I cannot access the loan application form online. Kindly help in accessing the form.""",Loan Application Query,Service Request
+"""I am having issues completing the loan application process. Kindly guide me on how to resolve this.""",Loan Application Query,Service Request
+"""The bank’s website is showing incorrect information for my account. Kindly assist in resolving this issue.""",Website Access Issue,Service Request
+"""Dear Team, my account details are not being displayed correctly on the website. Kindly investigate and provide a fix.""",Website Access Issue,Service Request
+"""The website is showing outdated details for my account. Kindly help in updating it.""",Website Access Issue,Service Request
+"""I cannot see my recent credit card transactions on the online portal. Kindly assist in displaying them.""",Credit Card Query,Service Request
+"""Dear Team, I cannot access my credit card transactions on the app. Kindly assist in retrieving them.""",Credit Card Query,Service Request
+"""The credit card details in the system are not up-to-date. Kindly assist in reflecting the correct information.""",Credit Card Query,Service Request
+"""Dear Team, I am unable to update my bank account details for a transfer. Kindly help me with updating the account information.""",Fund Transfer Query,Service Request
+"""I cannot update the account details for my fund transfer. Kindly assist with this.""",Fund Transfer Query,Service Request
+"""Dear Team, I’m unable to change the beneficiary details for my fund transfer. Kindly assist me with this.""",Fund Transfer Query,Service Request
+"""I am unable to submit my expense report through the app. Kindly guide me in resolving this issue.""",Expense Report Issue,Service Request
+"""Dear Team, I cannot upload my receipts for the expense report. Kindly assist in submitting the report.""",Expense Report Issue,Service Request
+"""I cannot add new expenses to my report. Kindly help me in resolving this.""",Expense Report Issue,Service Request
+"""The loan repayment details in my account are incorrect. Kindly assist in updating the payment details.""",Loan Payment Query,Service Request
+"""Dear Team, I noticed incorrect information about my loan repayment in the system. Kindly help with the correction.""",Loan Payment Query,Service Request
+"""I cannot find the loan repayment details on my account. Kindly assist in providing the correct information.""",Loan Payment Query,Service Request
+"""I received an SMS about a suspicious login attempt, but I did not initiate any login. Kindly investigate this issue.""",Security Alert Query,Security Request
+"""Dear Team, I received a security alert for my account. Kindly investigate and confirm if everything is secure.""",Security Alert Query,Security Request
+"""I’ve received an alert about unauthorized access to my account. Kindly help with securing my account.""",Security Alert Query,Security Request
+"""Dear Team, I am unable to access my statement download link. Kindly assist in providing a working link.""",Statement Download Issue,Service Request
+"""I tried to download my bank statement, but the download link is broken. Kindly assist with fixing this issue.""",Statement Download Issue,Service Request
+"""Dear Team, I cannot find my bank statement in the app. Kindly help me retrieve it.""",Statement Download Issue,Service Request
+"""Dear Team, I have tried to update my mobile banking PIN but I am getting an error. Kindly assist in resolving this.""",PIN Reset Query,Service Request
+"""I’m unable to reset my PIN for mobile banking. Kindly assist in guiding me through the process.""",PIN Reset Query,Service Request
+"""Dear Team, the mobile banking PIN reset process is failing. Kindly assist me with resetting my PIN.""",PIN Reset Query,Service Request
